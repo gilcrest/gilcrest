@@ -13,10 +13,3 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/g.ilcrest/)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gilcrestian.medium.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=gilcrest.gilcrest)
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilcrest&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilcrest&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
-
-
